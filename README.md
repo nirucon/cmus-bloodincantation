@@ -7,3 +7,5 @@ Installation: Place bloodincantation.theme in cmus directory. Example: ~/.config
 Load theme in cmus: :colorscheme bloodincantation
 
 Screenshot macosx:
+
+![alt text](cmus-bloodincantation.png "screenshot")
