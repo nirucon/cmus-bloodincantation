@@ -9,3 +9,7 @@ Load theme in cmus: :colorscheme bloodincantation
 Screenshot macosx:
 
 ![alt text](cmus-bloodincantation.png "screenshot")
+
+Screenshot debian/awesome/terminator:
+
+![alt text](cmus-bloodincantation2.png "screenshot")
