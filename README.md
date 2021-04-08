@@ -6,10 +6,10 @@ Installation: Place bloodincantation.theme in cmus directory. Example: ~/.config
 
 Load theme in cmus: :colorscheme bloodincantation
 
-Screenshot macosx:
+Screenshot Alacritty with transparency
 
-![alt text](cmus-bloodincantation.png "screenshot")
+![alt text](cmus-bloodincantation-trans.png "screenshot")
 
-Screenshot debian/awesome/terminator:
+Screenshot ST no transparency
 
-![alt text](cmus-bloodincantation2.png "screenshot")
+![alt text](cmus-bloodincantation-notrans.png "screenshot")
