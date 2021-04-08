@@ -1,5 +1,5 @@
 # cmus-bloodincantation
-Dark color scheme for cmus music player.
+Color scheme for cmus music player.
 Inspired by the band Blood Incantation. 
 
 Installation: Place bloodincantation.theme in cmus directory. Example: ~/.config/cmus/
